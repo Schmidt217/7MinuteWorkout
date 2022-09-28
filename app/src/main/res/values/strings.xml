@@ -4,4 +4,19 @@
     <string name="start_image">start image</string>
     <string name="get_ready_for">GET READY FOR</string>
     <string name="upcoming_exercise">UPCOMING EXERCISE</string>
+    <string name="are_you_sure">Are you sure you want to quit?</string>
+    <string name="will_stop_workout">This will stop your workout. You\'ve come this far, are you sure you want to quit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="weight_in_kg">Weight (in kg)</string>
+    <string name="height_in_cm">Height (in cm)</string>
+    <string name="your_bmi">YOUR BMI</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="metric_units">METRIC UNITS</string>
+    <string name="us_units">US UNITS</string>
+    <string name="height_feet">Height (ft)</string>
+    <string name="height_inches">Height (in)</string>
+    <string name="weight_pounds">Weight (pounds)</string>
 </resources>

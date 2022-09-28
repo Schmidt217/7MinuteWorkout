@@ -13,9 +13,14 @@
         <entry key="app/src/main/res/drawable/item_circular_accent_background.xml" value="0.1235" />
         <entry key="app/src/main/res/drawable/item_circular_color_accent_border.xml" value="0.1235" />
         <entry key="app/src/main/res/drawable/item_color_accent_border_ripple_background.xml" value="0.1235" />
+        <entry key="app/src/main/res/drawable/radio_group_tab_background.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/units_tab_color_selector.xml" value="0.173" />
+        <entry key="app/src/main/res/drawable/units_tab_selector.xml" value="0.173" />
+        <entry key="app/src/main/res/layout/activity_bmi.xml" value="0.2513586956521739" />
         <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.4061806289379116" />
         <entry key="app/src/main/res/layout/activity_finish.xml" value="0.2513586956521739" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17603850050658562" />
+        <entry key="app/src/main/res/layout/dialog_back_confirmation.xml" value="0.2513586956521739" />
         <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.2513586956521739" />
       </map>
     </option>
