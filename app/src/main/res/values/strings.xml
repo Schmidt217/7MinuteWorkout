@@ -19,4 +19,7 @@
     <string name="height_feet">Height (ft)</string>
     <string name="height_inches">Height (in)</string>
     <string name="weight_pounds">Weight (pounds)</string>
+    <string name="history">History</string>
+    <string name="exercises_completed">EXERCISES COMPLETED</string>
+    <string name="no_data_available">NO DATA AVAILABLE</string>
 </resources>
